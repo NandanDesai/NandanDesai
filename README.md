@@ -4,7 +4,7 @@
 
 ### 🖥️ 'System' concepts
 
-- <a href="https://github.com/nandan-desai-extras/c-to-process" target="_blank">**c-to-process**</a>: A detailed and comprehensive study module that will help you understand the **internal structure of object files and executables (like Sections, Symbol Table etc.)**, how the **Linker and Loader work**, how **dynamic libraries** (like DLL files) are used by executables etc.
+- <a href="https://github.com/nandan-desai-extras/c-to-process" target="_blank">**c-to-process**</a>: A detailed and comprehensive study module that will help you understand the **internal structure of object files and executables (like Sections, Symbol Table etc.)**, how the **Linker and Loader work**, how **dynamic libraries** (like DLL files) are used by executables, **memory structure of a process** etc.
 
 ##### Related blogposts that I've written:
 - <a href="https://nkdesai409.blogspot.com/2022/02/understanding-computer-memory.html" target="_blank">**Understanding Physical and Virtual Memory**</a>
@@ -26,7 +26,7 @@
 ### 📱 Software development guides
 
 - <a href="https://github.com/NandanDesai/AndroidIMTemplate" target="_blank">**AndroidIMTemplate**</a>: Includes a guide on how to **design and build** an **Instant Messaging app** on Android. It also contains details on how to add E2E Encryption (using **Signal protocol**), **encrypting local database** etc.
-- <a href="https://github.com/NandanDesai/BookShelf" target="_blank">**BookShelf**</a>: In this project, you'll get a detailed overview of various concepts related to software design and security (including how to implement **authentication** and **authorization** mechanisms).
+- <a href="https://github.com/NandanDesai/BookShelf" target="_blank">**BookShelf**</a>: In this project, you'll get a detailed explanation of various concepts related to software design and security (including how to implement **authentication** and **authorization**).
 
 
 ## My Projects
