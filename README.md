@@ -1,7 +1,3 @@
-#### Hi, thanks for visiting my GitHub profile! 🤗 
-
-**I've created some repositories and blogposts that will help you master the fundamentals in Security! I've created them while I was self-studying. Check them out if you're interested!**
-
 ### 🖥️ 'System' concepts
 
 - <a href="https://github.com/nandan-desai-extras/c-to-process" target="_blank">**c-to-process**</a>: A detailed and comprehensive study module that will help you understand the **internal structure of object files and executables (like Sections, Symbol Table etc.)**, how the **Linker and Loader work**, how **dynamic libraries** (like DLL files) are used by executables, **memory structure of a process** etc.
