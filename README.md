@@ -1,3 +1,9 @@
+## My Projects
+
+Please visit [https://nandandesai.github.io/](https://nandandesai.github.io/) to get an overview of all of my projects!
+
+And here are some study modules I've created, something that you might find interesting...
+
 ### 🖥️ 'System' concepts
 
 - <a href="https://github.com/nandan-desai-extras/c-to-process" target="_blank">**c-to-process**</a>: A detailed and comprehensive study module that will help you understand the **internal structure of object files and executables (like Sections, Symbol Table etc.)**, how the **Linker and Loader work**, how **dynamic libraries** (like DLL files) are used by executables, **memory structure of a process** etc.
@@ -25,6 +31,4 @@
 - <a href="https://github.com/NandanDesai/BookShelf" target="_blank">**BookShelf**</a>: In this project, you'll get a detailed explanation of various concepts related to software design and security (including how to implement **authentication** and **authorization**).
 
 
-## My Projects
 
-Please visit [https://nandandesai.github.io/](https://nandandesai.github.io/) to get an overview of all of my projects!
